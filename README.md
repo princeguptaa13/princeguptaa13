@@ -26,7 +26,7 @@ A passionate <b>Java Backend Developer</b> and <b>Computer Science Student</b> f
   </a>
 </div>
 
-###
+
 ###
 
 
@@ -36,7 +36,7 @@ A passionate <b>Java Backend Developer</b> and <b>Computer Science Student</b> f
 
 ###
 
-###
+
 
 <h3 align="left">🛠 Language and Tools</h3>
 
@@ -65,9 +65,6 @@ A passionate <b>Java Backend Developer</b> and <b>Computer Science Student</b> f
 </div>
 
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
 
 ###
