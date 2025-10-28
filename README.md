@@ -15,7 +15,7 @@ A passionate <b>Java Backend Developer</b> and <b>Computer Science Student</b> f
 - 🌱 I’m currently learning... <b>DevOps integration with Spring Boot backend</b><br>
 - ⚡ Fun fact: <i>I can spend hours debugging before realizing I missed a semicolon 😅</i>
 </p>
-###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/prince-gupta-2b332627a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -27,7 +27,7 @@ A passionate <b>Java Backend Developer</b> and <b>Computer Science Student</b> f
 </div>
 
 
-###
+
 
 
 <div align="center">
